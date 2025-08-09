@@ -1,0 +1,209 @@
+Speaker,Constituency,mean_pitch_hz,min_pitch_hz,max_pitch_hz
+Adrienne Wallace,Carlow-Kilkenny,244.15,81.05,477.67
+Orla Donohoe,Carlow-Kilkenny,219.96,122.7,497.43
+Jennifer Murnane O' Connor,Carlow-Kilkenny,171.04,74.95,453.86
+Catherine Callaghan,Carlow-Kilkenny,191.87,76.02,477.64
+Aine Gladney Knox,Carlow-Kilkenny,171.95,99.52,400.32
+Patricia Stephenson,Carlow-Kilkenny,243.18,87.69,474.67
+Natasha Newsome Drennan,Carlow-Kilkenny,176.66,82.95,264.14
+Carmel Brady,Cavan-Monaghan,212.5,76.95,490.11
+Niamh Smyth,Cavan-Monaghan,212.01,77.6,497.67
+Emma Hendrick,Cavan-Monaghan,180.04,82.21,402.4
+Sarah O' Reilly,Cavan-Monaghan,236.74,77.49,359.13
+Pauline Tully,Cavan-Monaghan,157.12,75.05,491.29
+Cathy Bennett,Cavan-Monaghan,205.26,76.11,442.48
+Leonora Carey,Clare,209.23,76.52,496.49
+Violet- Anne Wynne,Clare,200.76,76.82,489.11
+June Dillon,Clare,246.64,85.94,496.66
+Caitriona Ni Chathain,Clare,180.62,76.45,430.47
+Hilary Tonge,Clare,204.09,75.86,414.37
+Rita Mcinerney,Clare,229.62,140.66,407.31
+Roisin Garvey,Clare,194.96,77.74,490.6
+Donna Mcgettigan,Clare,183.74,77.88,495.64
+Amanda Major,Clare,202.21,76.83,497.95
+Mary Linehan Foley,Cork_East,153.83,75.02,493.2
+Deirdre O' Brien,Cork_East,174.74,75.74,494.57
+Mona Stromsoe,Cork_East,205.43,75.59,471.31
+Cliona O Halloran,Cork_East,191.88,80.3,476
+Rachel Hurley Roche,Cork_North-Central,209.62,75.06,312.94
+Imelda Daly,Cork_North-Central,194.03,79.83,374.78
+Susan Doyle,Cork_North-Central,189.08,75.17,494.47
+Sarah Murphy Kelleher,Cork_North-Central,174.21,74.99,491.17
+Colette Finn,Cork_North-West,165.1,77.6,474.95
+Nicole Ryan,Cork_North-West,163.65,77.07,295.29
+Becky Kealy,Cork_North-West,255.38,92.6,491.64
+Monica Oikeh,Cork_South-Central,184.48,75.18,428.68
+Laura Harmon,Cork_South-Central,137.93,75.08,436.48
+Margaret Kenneally,Cork_South-Central,190.65,75.79,467.94
+Anna Daly,Cork_South-Central,236.24,78.67,448.59
+Una Mccarthy,Cork_South-Central,200.46,92.14,497.94
+Michelle Cowhey Shahid,Cork_South-Central,190.59,75.85,486.74
+Lorna Bogue,Cork_South-Central,196.39,76.5,359.51
+Mona Stromsoe,Cork_East,205.43,75.59,471.31
+Holly Cairns,Cork_South-West,178.58,78.28,298.1
+Clare O' Callaghan,Cork_South-West,154.88,74.94,464.59
+Evie Nevin,Cork_South-West,234.08,77.51,340.28
+Deborah O' Driscoll,Cork_South-West,140.02,75.22,476.12
+Nikki Bradley,Donegal,158.98,75.58,498.6
+Claudia Kennedy,Donegal,238.7,147.76,451.74
+Nuala Carr,Donegal,174.9,90.67,495.33
+Carol Gallagher,Donegal,178.11,81.36,260.94
+Mary T. Sweeney,Donegal,219.16,76.72,368.55
+Denise Mitchell,Dublin_Bay_North,200.45,92.56,486.62
+Aoibhinn Tormey,Dublin_Bay_North,206.07,91.45,472.61
+Deirdre Heney,Dublin_Bay_North,204.86,87.1,452.41
+Lauralee Doyle,Dublin_Bay_South,211.59,75.1,424.1
+Ivana Bacik,Dublin_Bay_South,200.65,75.07,470.24
+Hazel Chu,Dublin_Bay_South,161.78,76.9,489.89
+Emma Blain,Dublin_Bay_South,147.7,76.36,422.11
+Brigid Purcell,Dublin_Bay_South,250.9,75.06,496.19
+Kate O' Connell,Dublin_Bay_South,158.26,90.78,487.96
+Mary Fitzpatrick,Dublin_Central,242.97,75.08,498.33
+Janice Boylan,Dublin_Central,229.55,153.18,496.03
+Clare Daly,Dublin_Central,156.84,75.37,499.04
+Neasa Hourigan,Dublin_Central,184.81,76.41,497.41
+Mary Lou Mcdonald,Dublin_Central,244.91,81.5,497.15
+Marie Sherlock,Dublin_Central,188.31,75.12,406.29
+Ann Graves,Dublin_Fingal_East,143.57,76.17,496.72
+Margaret Mcgovern,Dublin_Fingal_East,205.21,77.69,476.54
+Joan Hopkins,Dublin_Fingal_East,190.42,77.63,498.41
+Louise O' Reilly,Dublin_Fingal_West,182.97,75.08,494.8
+Lorraine Clifford- Lee,Dublin_Fingal_West,219.74,77.69,481.3
+Grace Boland,Dublin_Fingal_West,228.74,74.97,498.31
+Linda De Courcy,Dublin_Mid-West,247.02,91.08,436.32
+Lynda Prendergast,Dublin_Mid-West,187.14,77.42,460.32
+Emer Higgins,Dublin_Mid-West,221.5,84.7,498.1
+Vicki Casserly,Dublin_Mid-West,170.86,77.08,494.27
+Caroline Conroy,Dublin_North-West,196.97,74.95,499.35
+Cathleen Carney Boud,Dublin_North-West,201.98,74.97,384.11
+Siomha Ni Aonghusa,Dublin_Rathdown,159.03,74.96,340.99
+Elaine Dunne,Dublin_Rathdown,184.01,74.96,499.42
+Sinead Gibney,Dublin_Rathdown,227.79,87.25,493.44
+Catherine Martin,Dublin_Rathdown,213.33,76.64,370.27
+Lettie Mccarthy,Dublin_Rathdown,181.22,75.42,476.72
+Maeve O' Connell,Dublin_Rathdown,210.95,75.36,383.22
+Maire Devine,Dublin_South-Central,225.29,85.73,431.32
+Catherine Ardagh,Dublin_South-Central,201.07,76.93,304.27
+Jina Ahearn,Dublin_South-Central,227.13,74.94,499.32
+Mary Seery Kearney,Dublin_South-Central,214.94,77.16,496.49
+Jen Cummins,Dublin_South-Central,189.49,94.81,390.92
+Dolores Webster,Dublin_South-Central,147.96,75.27,288.72
+Hazel De Nortuin,Dublin_South-Central,151.84,74.96,465.28
+Aisling Considine,Dublin_South-Central,222.73,74.95,497.27
+Joan Collins,Dublin_South-Central,142.31,75.49,496.54
+Niamh Whelan,Dublin_South-West,236.03,76.03,498.55
+Sarah Barnes,Dublin_South-West,186.03,117.37,496.34
+Teresa Costello,Dublin_South-West,147.53,75.23,436.41
+Susanne Delaney,Dublin_West,341.89,81.3,498.36
+Emer Currie,Dublin_West,182.9,75.19,466.44
+Breda Hanaphy,Dublin_West,155.42,85.15,408.41
+Ellen Murphy,Dublin_West,190.86,76.71,494.82
+Ruth Coppinger,Dublin_West,192.94,77.02,484.4
+Tania Doyle,Dublin_West,203.37,76.09,453.38
+Ellen Troy,Dublin_West,278,79.49,499.63
+Natalie Treacy,Dublin_West,220.84,96.61,489.57
+Mairead Toibin,Dun_Laoghaire,214.6,75.02,497.27
+Cathy Lynch,Dun_Laoghaire,161.79,92.76,494.44
+Jennifer Carroll Macneill,Dun_Laoghaire,180.09,75.02,472.44
+Martha Fanning,Dun_Laoghaire,253,95.78,487.98
+Anne Rabbitte,Galway_East,195.69,81.02,414.23
+Niamh Madden,Galway_East,190.12,75.45,471.32
+Clodagh Higgins,Galway_East,185.22,74.99,482.66
+Pauline O' Reilly,Galway_West,184.81,75,486.4
+Maisie Mcmaster,Galway_West,222.54,92.08,490.65
+Grainne Seoige,Galway_West,198.07,77.17,408.6
+Hildegarde Naughton,Galway_West,176.89,75.57,401.28
+Mairead Farrell,Galway_West,220.05,157.02,489.81
+Catherine Connolly,Galway_West,180.81,79.7,475.64
+Helen Ogbu,Galway_West,185.78,120.22,491.01
+Mary Fitzgibbon,Kerry,304.9,123.55,487.56
+Stephanie O Shea,Kerry,204.95,78.94,402.94
+Linda Gordon Kelleher,Kerry,204.64,77.37,499.51
+Cleo Murphy,Kerry,211.54,85.83,497.4
+Catherina O' Sullivan,Kerry,198.86,75.13,386.15
+Norma Foley,Kerry,167.38,80.45,468.94
+Michelle Keane,Kerry,216.54,75.33,458.99
+Angela Feeney,Kildare_North,241.15,75.45,499.86
+Evie Sammon,Kildare_North,185.57,75.45,483.14
+Avril Corcoran,Kildare_North,149.69,75.48,308.27
+Una O' Connor,Kildare_North,200.38,78.11,383.09
+Reada Cronin,Kildare_North,199.68,80.81,497.25
+Leah Whelan,Kildare_North,253.84,75.03,499.65
+Patricia Ryan,Kildare_South,223.35,83.34,491.39
+Melissa Byrne,Kildare_South,176.91,78.21,498.44
+Fiona O' Loughlin,Kildare_South,212.74,75.09,491.76
+Shonagh Ni Raghallaigh,Kildare_South,192.03,74.96,498.11
+Monaa K Sood,Kildare_South,240.83,75.12,484.87
+Aisling Moran,Laois,154.95,75.11,490.05
+Rosie Palmer,Laois,200.55,84.14,484.32
+Elaine Mullally,Laois,185.59,75.44,388.29
+Maria Mccormack,Laois,202.54,139.49,474.61
+Pauline Flanagan,Laois,199.85,75.03,374.44
+Sarah Beasley,Limerick_City,169.3,75.33,485.16
+Dee Ryan,Limerick_City,170.08,83.51,379.8
+Melanie Cleary,Limerick_City,160.09,74.98,352.52
+Maria Byrne,Limerick_City,175.23,74.98,464.94
+Elisa O' Donovan,Limerick_City,192.71,79.83,463.41
+Noreen Stokes,Limerick_County,229.55,104.55,473.5
+Donna O' Loughlin,Limerick_County,205.56,83.98,499.97
+April Sheehan Corkery,Limerick_County,186.44,75.2,408.92
+Bridie Collins,Limerick_County,176.73,75.17,498.37
+Joanne Collins,Limerick_County,172.02,75.91,493.77
+Sorca Clarke,Longford_Westmeath,203.52,112.02,463.66
+Louise Heavin,Longford_Westmeath,182.26,75.36,493.63
+Laura O' Neill,Longford_Westmeath,187.91,75.11,494.37
+Charlotte Keenan,Longford_Westmeath,157.28,75.76,307.02
+Tanya Cannon,Longford_Westmeath,177.56,74.98,324.97
+Dympna Cunniffe,Longford_Westmeath,184.17,75.78,490.05
+Joanna Byrne,Louth,204.34,77.09,488.83
+Erin Mcgreehan,Louth,168.41,74.96,399.62
+Marianne Butler,Louth,214.52,140.97,499.59
+Paula Butterly,Louth,183.99,76.5,323.69
+Tracy O' Hanlon,Louth,242.33,143.46,403.56
+Alison Comyn,Louth,198.61,83.99,497.51
+Martina Jennings,Mayo,226.29,75.48,391.62
+Keira Keogh,Mayo,209.02,84.06,465.3
+Rose Conway Walsh,Mayo,200.09,80.95,498.02
+Lisa Chambers,Mayo,157.19,75.79,269.57
+Caroline O' Reilly,Meath_East,175.48,79.42,437.56
+Carolyn Fahy,Meath_East,228.56,81.03,350.26
+Helen Mcentee,Meath_East,165.92,75.28,499.57
+Emer Toibin,Meath_East,186.19,75.2,499.13
+Gillian Toole,Meath_East,192.39,78.45,380.96
+Maria White,Meath_East,234.98,99.91,482.35
+Eilish Balfe,Meath_East,225.98,85.97,331.67
+Sharon Tolan,Meath_East,172.62,116.28,328.66
+Jean Murray,Meath_East,186.38,75.16,499.29
+Linda Nelson Murray,Meath_West,238.63,75.01,496.98
+Sandy Gallagher,Meath_West,191.43,82.3,383.48
+Aisling Dempsey,Meath_West,179.34,75.16,453.88
+Carol Nolan,Offaly,223.71,108.97,478.86
+Aoife Masterson,Offaly,258.91,76.87,498.7
+Claire Murray,Offaly,242.05,74.99,498.4
+Pippa Hackett,Offaly,210.54,80.4,465.81
+Dympna Daly Finn,Roscommon-Galway,206.9,110.64,484.12
+Aisling Dolan,Roscommon-Galway,252.39,75.04,462.16
+Martina O' Connor,Roscommon-Galway,223.34,75.72,489.07
+Claire Kerrane,Roscommon-Galway,187.5,81.43,461.27
+Marie Casserly,Sligo-Leitrim,214.8,75.14,481.93
+Nessa Cosgrove,Sligo-Leitrim,177.94,81.95,492.21
+Molly Candon,Sligo-Leitrim,191.51,75.76,499.23
+Marian Harkin,Sligo-Leitrim,259.58,76.5,497.39
+Edel Mcsharry,Sligo-Leitrim,169.58,76.92,498.48
+Blaithin Gallagher,Sligo-Leitrim,241.49,75.64,499.42
+Phyll Bugler,Tipperary_North,171.31,75.56,486.85
+Iva Pocock,Tipperary_North,231.64,102.33,498.59
+Nadaline Webster,Tipperary_South,139.14,75.04,362.87
+Imelda Goldsboro,Tipperary_South,247.79,81.84,497.92
+Rosemary Mcglone,Tipperary_South,197.04,80.6,492.48
+Sadhbh O' Neill,Waterford,216.43,99.76,498.9
+Mary Roche,Waterford,234.67,75.17,499.09
+Melissa O' Neill,Waterford,144.63,75.09,224.12
+Mary Butler,Waterford,193.78,82.67,392.67
+Bridin Murphy,Wexford,185.43,74.97,496.64
+Verona Murphy,Wexford,190.5,78.09,467.69
+Michelle O' Neill,Wexford,187.98,75.18,377.77
+Michaela Keddy,Wicklow,198.95,75.03,495.54
+Kellie Mcconnell,Wicklow,158.59,74.93,484.88
+Jennifer Whitmore,Wicklow,155.51,75.4,497.34
+Ann Walsh,Wicklow-Wexford,140.76,75,496.23
